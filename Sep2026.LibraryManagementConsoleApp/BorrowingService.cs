@@ -41,7 +41,7 @@ namespace Sep2026.LibraryManagementConsoleApp
         } 
         public void Returning(string bookNo, string borrowerNo)
         {
-            // Check if the book exists and filter only false IsReturned
+            // Check if the book exists and filters only false IsReturned
             BorrowingDto borrowing = borrowings.Where(x => x.BookNo == bookNo && x.BorrowerNo == borrowerNo && !x.IsReturned).FirstOrDefault();
             if (borrowing == null)
             {
