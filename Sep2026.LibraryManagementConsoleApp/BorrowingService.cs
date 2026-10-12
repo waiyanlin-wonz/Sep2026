@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sep2026.ConsoleApp
+namespace Sep2026.LibraryManagementConsoleApp
 {
     public class BorrowingService
     {

@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Sep2026.ConsoleApp;
+using Sep2026.LibraryManagementConsoleApp;
 
 Start:
 Console.WriteLine("This is a library Management System");
