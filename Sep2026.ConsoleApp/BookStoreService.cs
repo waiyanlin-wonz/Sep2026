@@ -21,7 +21,6 @@ namespace Sep2026.ConsoleApp
                 BookTitle = bookTitle,
                 Author = author,
                 //Quantity = quantity,
-                //BorrowerNo= item.No,
                 //AvailableQuantity = availableQuantity
             };
             bookStores.Add(bookStore);
