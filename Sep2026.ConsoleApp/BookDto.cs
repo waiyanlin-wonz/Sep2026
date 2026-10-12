@@ -12,7 +12,6 @@ namespace Sep2026.ConsoleApp
         public string BookNo { get; set; }
         public string BookTitle { get; set; }
         public string Author { get; set; }
-        //public string BorrowerNo { get; set; }
         //public int Quantity { get; set; }
         //public int AvailableQuantity { get; set; }
     }
